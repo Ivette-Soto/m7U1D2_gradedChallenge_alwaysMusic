@@ -1,0 +1,15 @@
+{
+  "name": "m7u1d2_gradedchallenge_alwaysmusic",
+  "version": "1.0.0",
+  "description": "M7 U1 D2 : Graded Challenge - Always Music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --env-file=.env index.js"
+  },
+  "author": "Group : Victor Lara, Ivette Soto",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.5"
+  }
+}
